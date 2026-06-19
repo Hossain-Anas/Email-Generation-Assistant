@@ -2,3 +2,7 @@
 .env
 __pycache__/
 *.pyc
+
+# Kept locally, not published to the repo
+Final_Report.docx
+generate_report.py
