@@ -1,0 +1,328 @@
+id,intent,tone,strategy,fact_coverage,tone_alignment,conciseness_fluency,overall,generated_email
+S01,Follow up after a project kickoff meeting,Professional and friendly,basic,1.0,1.0,0.6,0.867,"Subject: Recap: Project Kickoff Meeting – Next Steps
+
+Hi [Client Name],
+
+It was great connecting with you and the team on Monday, March 3rd, to officially kick off the project. I truly appreciated the productive discussion and the clear alignment we achieved regarding our shared goals.
+
+As agreed during the meeting, we have established a 12-week timeline for the project. To keep us on track, our next major milestone will be the design review scheduled for the 28th.
+
+Regarding immediate next steps, we are expecting the brand assets from your side by this Friday. Once received, our team will finalize the detailed project plan, which we will circulate to everyone within 48 hours.
+
+Please let me know if you have any questions in the meantime. We are excited to get started!
+
+Best regards,
+
+[Your Name]
+[Your Job Title]"
+S01,Follow up after a project kickoff meeting,Professional and friendly,advanced,1.0,1.0,0.875,0.958,"Subject: Recap: Project Kickoff Meeting – March 3rd
+
+Hi Team,
+
+It was great connecting with everyone on Monday, March 3rd, to officially kick off the project. I’m excited to see how our collaboration unfolds.
+
+To confirm our next steps and key agreements:
+*   We have aligned on a 12-week project timeline.
+*   The client will provide the brand assets by this Friday.
+*   We will circulate the detailed project plan within 48 hours.
+*   Our next major milestone is the design review on the 28th.
+
+Please let me know if you have any immediate questions.
+
+Best regards,
+
+[Your Name]"
+S02,Request detailed information for a proposal,Formal,basic,1.0,1.0,0.475,0.825,"Subject: Request for Proposal: CRM Solution Evaluation – Q3 Rollout
+
+Dear [Vendor Contact Name],
+
+I hope this message finds you well.
+
+We are currently in the process of evaluating vendors for a Customer Relationship Management (CRM) system rollout scheduled for the third quarter. As part of this evaluation, we are requesting detailed information and a formal proposal from your team.
+
+Specifically, we require the following details to proceed with our assessment:
+
+*   **Pricing Structure:** A comprehensive quote for 200 seats, based on annual billing.
+*   **Security Compliance:** Confirmation of current SOC 2 Type II compliance, including any relevant audit reports.
+*   **Data Residency:** Verification that your infrastructure supports EU data residency requirements.
+
+Please submit your response and any supporting documentation by **Friday, the 24th**.
+
+Should you have any questions regarding these requirements or need further clarification, please direct them to our Procurement Lead, Dana Okafor, at [Dana Okafor's Email Address].
+
+Thank you for your time and assistance. We look forward to reviewing your proposal.
+
+Sincerely,
+
+[Your Name]
+[Your Job Title]
+[Your Company Name]
+[Your Phone Number]"
+S02,Request detailed information for a proposal,Formal,advanced,1.0,1.0,0.875,0.958,"Subject: Request for Proposal: Q3 CRM Rollout
+
+Dear Vendor Team,
+
+We are currently evaluating vendors for a Q3 CRM rollout and would like to request detailed information to support our assessment.
+
+Please provide the following specific details:
+*   Pricing for 200 seats with annual billing.
+*   Confirmation of SOC 2 Type II compliance.
+*   Confirmation of EU data residency.
+
+We kindly request a response by Friday, the 24th. Should you have any questions, please direct them to our procurement lead, Dana Okafor.
+
+Sincerely,
+
+[Your Name]"
+S03,Apologize for a delayed shipment,Empathetic and sincere,basic,1.0,1.0,0.575,0.858,"Subject: Update regarding your order #48217
+
+Dear [Customer Name],
+
+I am writing to sincerely apologize for the delay in shipping your order #48217. Due to an unexpected outage in our warehouse management system, your package was shipped two days later than originally scheduled. We understand how frustrating delays can be, and we truly regret any inconvenience this has caused you.
+
+We are pleased to inform you that your package is now on its way and is scheduled to arrive by this Thursday. To make up for this delay, we have automatically applied a 10% refund of $14.50 to your original payment method. Please allow a few business days for this credit to appear on your statement.
+
+If, for any reason, you no longer wish to keep the item due to this delay, we have included a prepaid return label in the package for your convenience.
+
+We value your business and are committed to ensuring a better experience moving forward. If you have any further questions or concerns, please do not hesitate to reach out to our support team at support@company.com.
+
+Thank you for your patience and understanding.
+
+Sincerely,
+
+The [Company Name] Team"
+S03,Apologize for a delayed shipment,Empathetic and sincere,advanced,1.0,1.0,0.875,0.958,"Subject: Apology for the delay with Order #48217
+
+Dear Customer,
+
+I sincerely apologize for the delay in shipping your order. Due to an unexpected warehouse system outage, Order #48217 shipped two days later than anticipated.
+
+We have applied a 10% refund of $14.50 to your original payment method as a gesture of goodwill. Your package is now scheduled to arrive by Thursday.
+
+If you no longer wish to keep the item, a prepaid return label is included in the box. For any further assistance, please contact us at support@company.com.
+
+Thank you for your patience and understanding.
+
+Sincerely,
+
+[Your Name]"
+S04,Request a deadline extension,Polite but urgent,basic,1.0,1.0,0.6,0.867,"Subject: URGENT: Request for Deadline Extension – Q2 Financial Report
+
+Dear [Recipient Name],
+
+I am writing to formally request a brief extension for the submission of the Q2 Financial Report. While the current deadline is Wednesday at 5:00 PM, we are requesting to move the final submission to Friday at 12:00 PM.
+
+This adjustment is necessary because the finance team’s data will not be finalized until Thursday morning. To ensure transparency and keep the process moving, we can share a draft of the completed sections by the original Wednesday deadline.
+
+Please be assured that this slight delay will not impact the upcoming board meeting on the 30th, as we will have ample time to finalize and distribute the report well in advance.
+
+Thank you for your understanding and flexibility regarding this matter.
+
+Best regards,
+
+[Your Name]
+[Your Job Title]"
+S04,Request a deadline extension,Polite but urgent,advanced,1.0,1.0,0.75,0.917,"Subject: URGENT: Request for deadline extension - Q2 Financial Report
+
+Dear [Recipient Name],
+
+I am writing to respectfully request an extension for the Q2 financial report, currently due this Wednesday at 5pm. We propose moving the deadline to Friday at noon.
+
+This adjustment is necessary because the finance team’s data will not be finalized until Thursday morning. To ensure transparency, we can share a draft of the completed sections by Wednesday as originally scheduled.
+
+Please note that this delay will not affect the board meeting on the 30th. Given the tight timeline, I would appreciate your prompt confirmation.
+
+Best regards,
+
+[Your Name]"
+S05,Decline a vendor's offer,Diplomatic and respectful,basic,1.0,0.75,0.725,0.825,"Subject: Update regarding your proposal submitted on October 10
+
+Dear [Vendor Name],
+
+Thank you for the detailed proposal you submitted on the 10th. We truly appreciate the time and effort your team invested in preparing it.
+
+After careful consideration, we have decided to proceed with another provider for this current cycle. Please know that this decision was not based on price or the quality of your offering, which were both highly competitive. Rather, the final choice came down to specific integration timelines that aligned more closely with our immediate operational requirements.
+
+We were very impressed with your capabilities and would like to keep you on our preferred vendor list for future opportunities next year. We hope to have the chance to work together when our needs align more closely with your schedule.
+
+If it would be helpful, we are happy to hop on a brief call to provide more specific feedback on our decision. Please let us know if you would be interested in that.
+
+Thank you again for your interest in partnering with us.
+
+Best regards,
+
+[Your Name]
+[Your Title]
+[Your Company]"
+S05,Decline a vendor's offer,Diplomatic and respectful,advanced,1.0,1.0,0.75,0.917,"Subject: Update regarding your proposal
+
+Dear [Vendor Name],
+
+Thank you for the detailed proposal submitted on the 10th. We appreciate the time and effort your team invested in preparing it.
+
+After careful consideration, we have decided to proceed with another provider for this cycle. This decision was based on integration timelines rather than price or quality, as your solution met our standards in those areas.
+
+We would like to keep you on our preferred list for next year and welcome the opportunity to work together in the future. If it would be useful, we are happy to provide feedback on a call.
+
+Best regards,
+
+[Your Name]"
+S06,Introduce a new team member to the team,Friendly and welcoming,basic,1.0,1.0,0.875,0.958,"Subject: Welcome to the team, Maria!
+
+Hi Team,
+
+I am thrilled to announce that Maria Chen is joining us as our new Senior Product Designer. She will be starting on Monday, April 14th.
+
+Maria brings a wealth of experience to the team, having spent the past six years at Acme where she led their design system. She will be taking the lead on our upcoming mobile redesign, which is scheduled to launch in Q3.
+
+We are all looking forward to working with her and leveraging her expertise. To help Maria settle in, we have organized a welcome lunch this Thursday at noon. Please join us to say hello and welcome her to the group!
+
+Best regards,
+
+[Your Name]"
+S06,Introduce a new team member to the team,Friendly and welcoming,advanced,1.0,1.0,0.875,0.958,"Subject: Welcome Maria Chen to the team!
+
+Hi Team,
+
+I’m thrilled to introduce Maria Chen, who is joining us as a Senior Product Designer. Maria starts on Monday, April 14th, and she brings with her six years of experience from Acme, where she led their design system.
+
+In her new role, Maria will lead the mobile redesign launching in Q3. We’re excited to have her expertise on board.
+
+Please join us for a welcome lunch this Thursday at noon to meet Maria and celebrate her arrival.
+
+Best regards,
+
+[Your Name]"
+S07,Schedule an annual performance review,Formal and clear,basic,1.0,1.0,0.725,0.908,"Subject: Scheduling: Annual Performance Review – 2025 Cycle
+
+Dear [Employee Name],
+
+I am writing to schedule your annual performance review for the 2025 performance cycle. I would like to propose a meeting for next Tuesday at 2:00 PM in Room 3B. The session is expected to last approximately 60 minutes.
+
+In preparation for our discussion, please submit your written self-assessment by the end of the day on Monday. This document will help facilitate a productive conversation regarding your achievements over the past year.
+
+Additionally, we will use this time to discuss your goals for 2026 and outline a professional development plan to support your continued growth within the organization.
+
+Please let me know if the proposed time works for you or if you need to reschedule.
+
+Best regards,
+
+[Your Name]
+[Your Job Title]"
+S07,Schedule an annual performance review,Formal and clear,advanced,1.0,1.0,0.875,0.958,"Subject: Scheduling: Annual Performance Review – 2025 Cycle
+
+Dear [Employee Name],
+
+I am writing to schedule your annual performance review for the 2025 performance cycle. I propose we meet next Tuesday at 2:00 PM in Room 3B. The session is expected to last 60 minutes.
+
+Please submit a written self-assessment by the end of day Monday. During our meeting, we will review your 2025 performance and discuss your 2026 goals and development plan.
+
+Please confirm if this time works for you.
+
+Sincerely,
+
+[Your Name]"
+S08,Thank a client for renewing their contract,Warm and appreciative,basic,1.0,1.0,0.325,0.775,"Subject: Welcome to Your Renewed Partnership & Premium Support Upgrade
+
+Dear [Client Name],
+
+Thank you so much for renewing your contract with us for another two years. We are truly honored by your continued trust in our services and are excited to support your goals for the coming term.
+
+As part of this renewal, we are pleased to confirm that your account has been upgraded to the **Premium support tier**. To ensure you receive the highest level of service, **Priya Nair** will be assigned as your dedicated account manager. Priya will be your primary point of contact and is committed to ensuring your experience is seamless and successful.
+
+Additionally, as a token of our appreciation for your loyalty, we have applied a **5% loyalty credit** to your account. This credit is now available for use on your upcoming invoices.
+
+We will reach out shortly to schedule a kickoff call during the **first week of May**. This session will allow Priya to introduce herself, review your current objectives, and discuss how we can best support you in this new phase of our partnership.
+
+Thank you again for choosing to grow with us. We look forward to a prosperous and productive next two years together.
+
+Warm regards,
+
+[Your Name]
+[Your Job Title]
+[Your Company Name]"
+S08,Thank a client for renewing their contract,Warm and appreciative,advanced,1.0,1.0,0.875,0.958,"Subject: Thank you for renewing – next steps for your account
+
+Dear [Client Name],
+
+Thank you so much for renewing your contract for another two years. We truly value your continued partnership and are delighted to have you with us.
+
+As part of this renewal, your account has been upgraded to the Premium support tier. To ensure you receive the best possible service, Priya Nair will be assigned as your dedicated account manager. We will also schedule a kickoff call during the first week of May to discuss your goals and how we can best support you.
+
+As a token of our appreciation, we have added a 5% loyalty credit to your account.
+
+We look forward to another successful year together.
+
+Warm regards,
+
+[Your Name]"
+S09,Report a critical bug to a software vendor,Urgent and professional,basic,0.833,1.0,0.6,0.811,"Subject: URGENT: Critical Bug in Version 4.2 - Export Feature Crash (Account: ACME-7741)
+
+Dear Support Team,
+
+I am writing to report a critical issue affecting our operations following the release of version 4.2 last week.
+
+We have identified a severe bug where the export feature crashes immediately when processing any file larger than 50MB. This issue affects all users on our account (ACME-7741) running version 4.2. The system returns error code **EXP-503** upon failure.
+
+This bug is currently blocking our month-end financial reporting, which is a time-sensitive priority for our organization. Given the severity of this impact, we require an immediate resolution.
+
+Please provide a fix or a viable workaround within the next 24 hours. I have attached the relevant system logs for your analysis.
+
+We look forward to your prompt response.
+
+Best regards,
+
+[Your Name]
+[Your Job Title]
+[Your Phone Number]"
+S09,Report a critical bug to a software vendor,Urgent and professional,advanced,1.0,1.0,0.75,0.917,"Subject: URGENT: Critical Bug in Version 4.2 Blocking Month-End Reporting (Account: ACME-7741)
+
+Dear Support Team,
+
+I am writing to report a critical issue affecting our operations. The export feature is crashing on any file larger than 50MB. This bug impacts all users on version 4.2, which was released last week.
+
+This issue is currently blocking our month-end financial reporting. The specific error code is EXP-503, and I have attached the relevant logs for your review.
+
+Given the severity, we require a fix or a viable workaround within 24 hours. Our account ID is ACME-7741.
+
+Regards,
+
+[Your Name]"
+S10,Invite contacts to a product webinar,Casual and enthusiastic,basic,1.0,1.0,0.6,0.867,"Subject: You’re invited! 🚀 New Analytics Dashboard Webinar
+
+Hi [Name],
+
+Hope you’re having a great week!
+
+We are super excited to invite you to a special webinar showcasing our brand-new Analytics Dashboard. If you’ve been waiting for a better way to visualize your data, this is the one for you.
+
+**The Details:**
+*   **What:** Deep dive into the new Analytics Dashboard
+*   **When:** The 15th at 11:00 AM ET
+*   **Who:** Hosted by our Head of Product, Sam Rivera
+
+We’ll be walking through all the key features, answering your questions in a live Q&A session, and even giving away some cool product swag to attendees! 🎁
+
+Keep an eye on your inbox—the registration link will be coming in a separate email shortly. Don’t worry if you can’t make it live; we’ll send a recording to everyone who registers so you can catch up at your own pace.
+
+Can’t wait to see you there!
+
+Best,
+
+[Your Name]
+[Your Title]"
+S10,Invite contacts to a product webinar,Casual and enthusiastic,advanced,1.0,1.0,0.875,0.958,"Subject: You’re invited! 🚀 New Analytics Dashboard Webinar
+
+Hi everyone,
+
+I’m thrilled to invite you to our upcoming webinar showcasing our brand-new analytics dashboard!
+
+Join us on the 15th at 11:00 AM ET for an exclusive look at what’s new. Our Head of Product, Sam Rivera, will be hosting the session, and we’ve packed it with value—including a live Q&A and a special product giveaway for attendees.
+
+The registration link will follow in a separate email shortly. Don’t worry if you can’t make it live; a recording will be sent to everyone who registers.
+
+Can’t wait to see you there!
+
+Best,
+
+[Your name]"

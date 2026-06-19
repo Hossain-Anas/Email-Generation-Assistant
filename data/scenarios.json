@@ -1,0 +1,135 @@
+[
+  {
+    "id": "S01",
+    "intent": "Follow up after a project kickoff meeting",
+    "facts": [
+      "The kickoff meeting was held on Monday, March 3rd",
+      "Both teams agreed on a 12-week project timeline",
+      "The next milestone is the design review on the 28th",
+      "The client will send brand assets by Friday",
+      "We will circulate a detailed project plan within 48 hours"
+    ],
+    "tone": "Professional and friendly",
+    "reference_email": "Subject: Following up on Monday's kickoff\n\nHi Sam,\n\nThanks for a productive kickoff on Monday, March 3rd. It was great to align on a 12-week timeline together. As a quick recap, our next milestone is the design review on the 28th. To keep us on track, could you send the brand assets by Friday? On our side, we'll circulate a detailed project plan within 48 hours.\n\nLooking forward to working together.\n\nBest,\n[Your name]"
+  },
+  {
+    "id": "S02",
+    "intent": "Request detailed information for a proposal",
+    "facts": [
+      "We are evaluating vendors for a Q3 CRM rollout",
+      "We need pricing for 200 seats with annual billing",
+      "We require confirmation of SOC 2 Type II compliance",
+      "We need confirmation of EU data residency",
+      "A response is requested by Friday, the 24th",
+      "Please direct questions to our procurement lead, Dana Okafor"
+    ],
+    "tone": "Formal",
+    "reference_email": "Subject: Request for Proposal Details - Q3 CRM Rollout\n\nDear Vendor Team,\n\nWe are evaluating vendors for our Q3 CRM rollout and would like to request the following. Please provide pricing for 200 seats on annual billing, confirmation of SOC 2 Type II compliance, and confirmation of EU data residency. We would appreciate your response by Friday, the 24th. Any questions can be directed to our procurement lead, Dana Okafor.\n\nThank you for your time.\n\nKind regards,\n[Your name]"
+  },
+  {
+    "id": "S03",
+    "intent": "Apologize for a delayed shipment",
+    "facts": [
+      "Order #48217 shipped two days late due to a warehouse system outage",
+      "A 10% refund of $14.50 has been applied to the original payment method",
+      "The package is now scheduled to arrive by Thursday",
+      "A prepaid return label is included if they no longer want the item",
+      "Support can be reached at support@company.com"
+    ],
+    "tone": "Empathetic and sincere",
+    "reference_email": "Subject: Apology for the delay on order #48217\n\nHi Priya,\n\nI'm sorry that order #48217 shipped two days late because of a warehouse system outage on our end - I understand how frustrating that is. To make it right, we've applied a 10% refund of $14.50 to your original payment method, and your package is now scheduled to arrive by Thursday. If you'd prefer not to keep the item, a prepaid return label is included.\n\nThank you for your patience. You can reach us anytime at support@company.com.\n\nWarm regards,\n[Your name]"
+  },
+  {
+    "id": "S04",
+    "intent": "Request a deadline extension",
+    "facts": [
+      "The Q2 financial report is currently due Wednesday at 5pm",
+      "We are requesting an extension to Friday at noon",
+      "The reason is that the finance team's data won't be finalized until Thursday morning",
+      "The delay will not affect the board meeting on the 30th",
+      "A draft of the completed sections can be shared by Wednesday"
+    ],
+    "tone": "Polite but urgent",
+    "reference_email": "Subject: Quick request: short extension on the Q2 report\n\nHi Dana,\n\nI wanted to flag this early. The Q2 financial report is due Wednesday at 5pm, but the finance team's data won't be finalized until Thursday morning. Could I have an extension to Friday at noon? This won't affect the board meeting on the 30th, and I can share a draft of the completed sections by Wednesday.\n\nThanks for understanding - happy to discuss if helpful.\n\nBest,\n[Your name]"
+  },
+  {
+    "id": "S05",
+    "intent": "Decline a vendor's offer",
+    "facts": [
+      "We appreciate the detailed proposal submitted on the 10th",
+      "We have decided to proceed with another provider for this cycle",
+      "The decision came down to integration timelines, not price or quality",
+      "We would like to keep you on our preferred list for next year",
+      "We are happy to provide feedback on a call if useful"
+    ],
+    "tone": "Diplomatic and respectful",
+    "reference_email": "Subject: Update on your proposal\n\nDear Alex,\n\nThank you for the detailed proposal you submitted on the 10th - it was clearly well prepared. After careful consideration, we've decided to proceed with another provider for this cycle. To be transparent, the decision came down to integration timelines rather than price or quality, and we'd like to keep you on our preferred list for next year. If it would be useful, we're happy to share feedback on a quick call.\n\nWishing you the best, and thank you again.\n\nKind regards,\n[Your name]"
+  },
+  {
+    "id": "S06",
+    "intent": "Introduce a new team member to the team",
+    "facts": [
+      "Maria Chen is joining as a Senior Product Designer",
+      "She starts Monday, April 14th",
+      "She previously spent six years at Acme leading their design system",
+      "She will lead the mobile redesign launching in Q3",
+      "A welcome lunch is planned for Thursday at noon"
+    ],
+    "tone": "Friendly and welcoming",
+    "reference_email": "Subject: Welcome Maria Chen to the team!\n\nHi everyone,\n\nI'm thrilled to introduce Maria Chen, who's joining us as a Senior Product Designer starting Monday, April 14th. Maria spent six years at Acme leading their design system, and she'll be leading our mobile redesign launching in Q3. To welcome her properly, we're having a team lunch on Thursday at noon - hope you can make it.\n\nPlease give Maria a warm welcome!\n\nCheers,\n[Your name]"
+  },
+  {
+    "id": "S07",
+    "intent": "Schedule an annual performance review",
+    "facts": [
+      "The review covers the 2025 performance cycle",
+      "The meeting is proposed for next Tuesday at 2:00 PM in Room 3B",
+      "Please submit a written self-assessment by end of day Monday",
+      "The discussion will also cover 2026 goals and a development plan",
+      "The session is expected to last 60 minutes"
+    ],
+    "tone": "Formal and clear",
+    "reference_email": "Subject: Scheduling your 2025 performance review\n\nDear Jordan,\n\nI'd like to schedule your annual performance review for the 2025 cycle. I propose we meet next Tuesday at 2:00 PM in Room 3B for approximately 60 minutes. Please submit a written self-assessment by end of day Monday. In addition to reviewing 2025, we'll discuss your 2026 goals and a development plan.\n\nPlease let me know if the proposed time works for you.\n\nRegards,\n[Your name]"
+  },
+  {
+    "id": "S08",
+    "intent": "Thank a client for renewing their contract",
+    "facts": [
+      "They renewed their contract for another two years",
+      "The renewal includes an upgrade to the Premium support tier",
+      "A dedicated account manager, Priya Nair, will be assigned",
+      "A kickoff call will be scheduled for the first week of May",
+      "A 5% loyalty credit has been added to their account as a thank-you"
+    ],
+    "tone": "Warm and appreciative",
+    "reference_email": "Subject: Thank you for renewing with us!\n\nHi Chris,\n\nThank you so much for renewing your contract for another two years - we're delighted to continue working with you. Your renewal includes an upgrade to our Premium support tier, and we'll be assigning Priya Nair as your dedicated account manager. We'll schedule a kickoff call for the first week of May. As a small thank-you, we've also added a 5% loyalty credit to your account.\n\nWe're grateful for your continued trust.\n\nWarm regards,\n[Your name]"
+  },
+  {
+    "id": "S09",
+    "intent": "Report a critical bug to a software vendor",
+    "facts": [
+      "The export feature crashes on any file larger than 50MB",
+      "The bug affects all users on version 4.2, released last week",
+      "It is currently blocking our month-end financial reporting",
+      "The error code is EXP-503 and logs have been attached",
+      "We need a fix or workaround within 24 hours",
+      "Our account ID is ACME-7741"
+    ],
+    "tone": "Urgent and professional",
+    "reference_email": "Subject: URGENT: Export crash on large files (v4.2, EXP-503)\n\nHi Support Team,\n\nWe're hitting a critical bug: the export feature crashes on any file larger than 50MB. It affects all of our users on version 4.2, released last week, and is currently blocking our month-end financial reporting. The error code is EXP-503, and I've attached the logs. Given the impact, we need a fix or workaround within 24 hours. Our account ID is ACME-7741.\n\nThank you for prioritizing this.\n\nBest,\n[Your name]"
+  },
+  {
+    "id": "S10",
+    "intent": "Invite contacts to a product webinar",
+    "facts": [
+      "The webinar is on the 15th at 11:00 AM ET",
+      "The topic is our new analytics dashboard",
+      "It will be hosted by our Head of Product, Sam Rivera",
+      "A live Q&A and a product giveaway are included",
+      "The registration link will follow in a separate email",
+      "A recording will be sent to everyone who registers"
+    ],
+    "tone": "Casual and enthusiastic",
+    "reference_email": "Subject: You're invited - see our new analytics dashboard live!\n\nHey there,\n\nWe're hosting a webinar on the 15th at 11:00 AM ET, and we'd love for you to join! Our Head of Product, Sam Rivera, will walk through our brand-new analytics dashboard, and we'll wrap up with a live Q&A and a product giveaway. The registration link will follow in a separate email - and don't worry if you can't make it live, we'll send a recording to everyone who registers.\n\nHope to see you there!\n\nCheers,\n[Your name]"
+  }
+]
